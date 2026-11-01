@@ -6,7 +6,7 @@
 
 ## How I used AI tools
 
-[WRITE THIS YOURSELF, 2-3 sentences, honestly. Say which tool you used and for what. You must include one place where you disagreed with or corrected the AI, and why. Example of the kind of thing to write (only use it if it is true for you): "I used Claude to help draft the extraction prompt and check my scoring maths. It first suggested letting the AI write the final score for each proposal; I changed this to code-only scoring because I wanted the same input to always give the same ranking."]
+ You must include one place where you disagreed with or corrected the AI, and why. Example of the kind of thing to write (only use it if it is true for you): "I used Claude to help draft the extraction prompt and check my scoring maths. It first suggested letting the AI write the final score for each proposal; I changed this to code-only scoring because I wanted the same input to always give the same ranking.
 
 ## Files
 
