@@ -1,8 +1,8 @@
 # MATACS-TH-2026-02: AI Proposal Triage Design
 
-- **Name:** [YOUR FULL NAME]
+- **Name:** [KAMLESH KUMAR]
 - **Reference:** MATACS-TH-2026-02
-- **Time actually spent:** [WRITE THE REAL NUMBER, e.g. about 2 hours including the diagram]
+- **Time actually spent:**
 
 ## How I used AI tools
 
