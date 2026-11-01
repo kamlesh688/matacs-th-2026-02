@@ -6,7 +6,9 @@
 
 ## How I used AI tools
 
- You must include one place where you disagreed with or corrected the AI, and why. Example of the kind of thing to write (only use it if it is true for you): "I used Claude to help draft the extraction prompt and check my scoring maths. It first suggested letting the AI write the final score for each proposal; I changed this to code-only scoring because I wanted the same input to always give the same ranking.
+used Claude to help me analyse the brief and draft the write-up, extraction
+prompt, flow diagram and a small scoring script. I checked the scoring numbers
+by hand and edited the wording so I could explain every decision myself.
 
 ## Files
 
